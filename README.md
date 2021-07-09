@@ -14,4 +14,4 @@ Head on to https://replit.com/@SachinMehta/WorldOfPong and play to your Heart's 
 
 Watch and learn how to play in the amazing World Of Pong 🏓 !
 
-<iframe src="https://player.vimeo.com/video/572907588" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+[![Demo Vid](<iframe src="https://player.vimeo.com/video/572907588" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>)]
