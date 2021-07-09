@@ -2,7 +2,7 @@
 Welcome to the amazing World Of Pong !!!! 😃
 
 # How To Play ? 🤔
-Head on to https://timeforpong.herokuapp.com and play to your Heart's Content 💝
+Head on to https://replit.com/@SachinMehta/WorldOfPong and play to your Heart's Content 💝
 
 # To Do List : 📜
   1) Play the Game
